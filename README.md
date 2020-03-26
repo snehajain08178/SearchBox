@@ -3,7 +3,7 @@
 A pretty awesome search bar for React Native. 
 
 <!-- ![react-native-searchbar](http://drive.google.com/uc?export=view&id=1p45erAFNXq35AU525ub9jYZEzAu55kv3) -->
-<img src="http://drive.google.com/uc?export=view&id=1p45erAFNXq35AU525ub9jYZEzAu55kv3" width="256" height="500">
+<img src="https://drive.google.com/open?id=1p45erAFNXq35AU525ub9jYZEzAu55kv3" width="256" height="500">
 
 
 ## Installation
