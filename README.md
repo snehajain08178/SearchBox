@@ -2,7 +2,7 @@
 
 A pretty awesome search bar for React Native. 
 
-![SearchBox](https://drive.google.com/open?id=1p45erAFNXq35AU525ub9jYZEzAu55kv3) 
+![SearchBox](http://drive.google.com/uc?export=view&id=1p45erAFNXq35AU525ub9jYZEzAu55kv3) 
 
 
 ## Installation
