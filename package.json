@@ -1,0 +1,15 @@
+{
+  "name": "react-native-searchbox-1",
+  "version": "1.0.17",
+  "description": "This is a Search Box.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sneha Jain",
+  "license": "ISC",
+  "peerDependencies": {
+    "react": "16.13.1",
+    "react-native": "0.61.5"
+  }
+}
